@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="docs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TopTrumps 4/TopTrumps/docs/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../TopTrumps 4/TopTrumps/docs/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../TopTrumps 4/TopTrumps/docs/package-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
